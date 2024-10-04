@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "backend-vercel",
   "version": "1.0.0",
   "main": "src/app.js",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "backend": "file:",
+    "backend-vercel": "file:",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
